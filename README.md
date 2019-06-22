@@ -1,5 +1,8 @@
-# ruanjiangongcheng2
+# ruanjiangongcheng
 软件工程概论
+
 任务一：有关C++与java的编程规范
+
 任务二：构建关于图书管理系统的需求规格说明书
+
 任务三：构建有关图书管理系统的系统概要说明书和详细设计
